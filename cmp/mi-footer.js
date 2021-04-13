@@ -4,7 +4,7 @@ class MiFooter
     this.innerHTML = /* html */
       `<p>
         &copy; 2021
-        Alan Galicia
+        Alan Galicia UTN 2021
       </p>`;
   }
 }
